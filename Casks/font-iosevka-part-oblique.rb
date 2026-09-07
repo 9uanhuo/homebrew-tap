@@ -1,6 +1,6 @@
 cask "font-iosevka-part-oblique" do
-  version "34.7.0"
-  sha256 "049c0ea7c1ba2b28091ba73adacdd2968253b9f86e010d4491752b2926d2a95b"
+  version "34.8.1"
+  sha256 "0ea6f8a7d37444a974b45d24995b3a58f80924b71e8c51f0d91a879fa87c36be"
 
   url "https://github.com/be5invis/Iosevka/releases/download/v#{version}/PkgTTF-Iosevka-#{version}.zip"
   name "Iosevka Oblique (Iosevka)"
