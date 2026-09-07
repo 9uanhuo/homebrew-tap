@@ -1,6 +1,6 @@
 cask "font-iosevka-term-part-oblique" do
-  version "34.7.0"
-  sha256 "cb75046a641a2a2fb27fc556b44183b4745792ab0f0a9dc450864f7983764321"
+  version "34.8.1"
+  sha256 "c9929ef8c27e5469906468e378e11d3023690ae9cd411a4af3de78190b901075"
 
   url "https://github.com/be5invis/Iosevka/releases/download/v#{version}/PkgTTF-IosevkaTerm-#{version}.zip"
   name "Iosevka Term Oblique (Iosevka)"
